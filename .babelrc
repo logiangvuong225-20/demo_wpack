@@ -1,0 +1,12 @@
+{
+	"presets": [
+		"react",
+		"env",
+		"stage-0"
+	],
+	"plugins": [
+		"inline-import-data-uri",
+		"transform-object-rest-spread",
+		"transform-react-jsx"
+	]
+}
